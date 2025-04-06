@@ -1,0 +1,6 @@
+cat > backend/requirements.txt << 'EOL'
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+EOL
